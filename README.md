@@ -1,2 +1,2 @@
 # ProjetosVersionados
- projetos de estudos de programação em java,c#,html,python,javaScritp
+ projetos de estudos de programação em python
